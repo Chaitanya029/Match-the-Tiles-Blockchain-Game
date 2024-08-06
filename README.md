@@ -1,6 +1,7 @@
 ## Match The Tiles
 Hey Everyone, Chaitanya Jagarwal here,
 This is a Blockchain based memory game, where the user is supposed to find matching tiles. As soon as the user finds a match, the user gets to keep it forever of the Blockchain. if you Have any suggestion or question then send me at chaitanyajagarwal29@gmail.com 
+
 Each tiles is represented by a blockchain token, which can be kept in wallet after getting matched. These tokens can be transfered outside of the game or keep them as collectables. </br>
 
 ![Alt text](screenshots/Poster.png?raw=true "Poster")
